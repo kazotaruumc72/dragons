@@ -29,7 +29,7 @@ commands:
     description: Command to manage your pets
     Usage: /mcpets
     permission: mcpets.use
-    aliases: [pets]
+    aliases: [dragons]
   mcmounts:
     description: Command to view your mounts
     Usage: /mcmounts
